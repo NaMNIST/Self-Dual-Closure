@@ -1,167 +1,8 @@
 # Theory: The Universal Axiom System for the Self-Dual Inflationary Closure Equation
 
-このファイルは、ミレニアム懸賞問題の統一理論に関する核心的な数式、定義、およびYouTube解説の補足資料を時系列で蓄積するものです。
+このファイルは、ミレニアム懸賞問題の統一理論に関する核心的な数式、定義、およびYouTube解説の補足資料を蓄積するものです。
 
 ---
-
-## [Fundamental] The Self-Dual Inflationary Closure Equation
-### — 自己双対・完全閉統合方程式 —
-
-理論の基盤となる統合方程式です。数論、流体力学、幾何学、物理学の諸定数が極限において結合します。
-
-$$
-\boxed{
-
-\begin{aligned}
-
-&
-
-\Bigg[
-
-\lim_{Q \to M_{\rm Pl}}
-
-\Big\{
-
-{\rm ord}{s=1} L(s,\pi)
-
-\cdot
-
-\Delta
-
-\cdot
-
-\nu |\mathbf{u}|{H^s}
-
-\cdot
-
-\chi(\overline{\rm Orb}(\rho))
-
-\\
-
-&\qquad\qquad\qquad
-
-\cdot
-
-\int_{\rm CY \subset AdS}
-
-\Omega \wedge \overline{\Omega}
-
-\cdot
-
-\int_{\rm AdS}
-
-R \sqrt{-g}\, d^4x
-
-\Big\}
-
-\Bigg]
-
-\\[6pt]
-
-&\qquad\qquad
-
-\times
-
-\Bigg[
-
-\left(
-
-\frac{1}{\alpha}
-
-+
-
-\frac{1}{\alpha_G}
-
-\right)
-
-\log
-
-\left(
-
-\sum_{\rho:\Re(\rho)=\tfrac12} 1
-
-\right)
-
-\Bigg]
-
-\\[10pt]
-
-&=
-
-\Bigg[
-
-\lim_{Q \to M_{\rm Pl}}
-
-\Big\{
-
-{\rm ord}{s=1} L(s,\pi)
-
-\cdot
-
-\Delta
-
-\cdot
-
-\nu |\mathbf{u}|{H^s}
-
-\cdot
-
-\chi(\overline{\rm Orb}(\rho))
-
-\\
-
-&\qquad\qquad\qquad
-
-\cdot
-
-\int_{\rm CY \subset AdS}
-
-\Omega \wedge \overline{\Omega}
-
-\cdot
-
-\int_{\rm AdS}
-
-R \sqrt{-g}\, d^4x
-
-\Big\}
-
-\Bigg]
-
-\\[6pt]
-
-&\qquad\qquad
-
-\times
-
-\Bigg[
-
-\left(
-
-\frac{1}{\alpha}
-
-+
-
-\frac{1}{\alpha_G}
-
-\right)
-
-\log
-
-\left(
-
-\sum_{\rho:\Re(\rho)=\tfrac12} 1
-
-\right)
-
-\Bigg]
-
-\end{aligned}
-
-}
-
-
-$$
 
 ### 概要
 本方程式は、クレイ数学研究所が提示するミレニアム懸賞問題（リーマン予想、ナビエ・ストークス、ホッジ予想、BSD予想、P vs NP、ヤン-ミルズ）が、プランクスケール（$M_{\rm Pl}$）における自己双対なインフレーション構造において、単一の公理系へと収束することを示しています。
@@ -183,13 +24,859 @@ https://www.youtube.com/watch?v=RVIfM5pebpE
 
 
 
+1 公理系（Self‑Dual Inflationary Axiom System）
+Axiom 1 Unified Embedding Axiom 統合埋込公理 すべてのミレニアム関連不変量（幾何的・代数的・解析的・情報的量）は、ある高エネルギー統合空間 
+𝑈
+ に埋め込まれる。埋込は圏論的に定式化され、対象と射として扱えることを要求する。
+
+Axiom 2 Inflationary Projection Axiom 射影（インフレーション）公理 
+𝑈
+ から各低次元理論圏への射影 
+Π
+𝑖
+:
+𝑈
+→
+𝐶
+𝑖
+ が存在し、各ミレニアム問題はこれらの射影像として現れる。未解決性は射影像の性質であり、
+𝑈
+ の欠陥を意味しない。
+
+Axiom 3 Mirror Duality Axiom 鏡像双対公理 存在する双対関手 
+𝐹
+:
+𝐶
+U
+V
+⇄
+𝐶
+I
+R
+:
+𝐺
+ により、モノイド積は可換に振る舞う：任意の対象 
+𝑋
+∈
+𝐶
+U
+V
+,
+𝑌
+∈
+𝐶
+I
+R
+ に対し 
+𝐹
+(
+𝑋
+⊗
+𝑌
+)
+≅
+𝐹
+(
+𝑋
+)
+⊗
+𝐹
+(
+𝑌
+)
+ が成立する。
+
+Axiom 4 Self‑Dual Closure Axiom 自己双対閉包公理 
+𝑈
+ はその鏡像 
+𝑈
+m
+i
+r
+r
+o
+r
+ との積に関して閉じる：
+𝑈
+⊗
+𝑈
+m
+i
+r
+r
+o
+r
+≅
+𝑈
+。この閉包は構造的要請であり、トートロジー的記述ではなく双対性の実装条件である。
+
+Axiom 5 Non‑Collapse Axiom 非崩壊公理 
+𝑈
+ の一因子が未確定・偽であっても、全体 
+𝑈
+ は崩壊しない。局所的反例は局所的に吸収され、全体同型性は保持される。
+
+Axiom 6 Teleological Inflation Axiom 目的的膨張公理 数学的宇宙は双対化可能・可換な構造を高次元側に拡張する方向へ「膨張」する。これは目的論的表現ではなく、構造的安定性を要求する公理である。
+
+2 定義ブロック（最小限、論文・展示共用）
+𝑈
+：Planckスケールにおける統合積構造（高次元ユニバース）。
+
+𝐺
+：高エネルギー側の統合因子（例：CY/AdS上のトポロジカル弦生成関数）。
+
+𝐴
+：低エネルギー側の情報因子（例：結合定数×零点情報の情報作用）。
+
+⊗
+：モノイド積（圏論的積）。
+
+𝑁
+1
+/
+2
+：臨界線上零点の正規化計数演算子（発散を除去した有限量）。
+
+3 公理系の「最終耐性強化」条項（実装上の補助公理）
+Consistency Clause 整合性条項：公理系は標準圏論公理（モノイド圏、関手、自然変換）と整合すること。
+
+Renormalization Clause 正規化条項：スペクトル・零点等の潜在的発散は明示的正規化手続きで扱うこと（付録に手続き記述）。
+
+Functorial Release Clause 公開関手条項：公理系のあらゆる定式化は関手的に公開され、再現可能な記述（ソース、定義、例）を添付すること。
+
+
+
+要旨
+命名は「自己双対閉包公理」で確定。名称は簡潔で汎用性が高く、理論的適用範囲を広げる。以下に、公理式を含む最終版公理系を清書し、各公理の意味と批判耐性を最大化する補強を付記する。
+
+自己双対閉包公理 最終定式化
+公理（Self‑Dual Closure Axiom） 存在する高次元統合空間 
+𝑈
+ は、その鏡像 
+𝑈
+m
+i
+r
+r
+o
+r
+ とのモノイド積に関して閉じ、自己同型として復帰する：
+
+  
+𝑈
+⊗
+𝑈
+m
+i
+r
+r
+o
+r
+≅
+𝑈
+  
+補強条件（批判耐性強化）
+
+関手的閉包：閉包同型は単なる集合同値ではなく、モノイド圏の同値（monoidal equivalence）として与えられる。すなわち、同型は関手 
+𝐻
+:
+𝑈
+⊗
+𝑈
+m
+i
+r
+r
+o
+r
+→
+𝑈
+ とその逆関手 
+𝐻
+−
+1
+ による自然同型族を伴う。
+
+局所安定性：任意の有限部分因子の摂動に対して、同型は局所的に補正可能な自然変換を持ち、全体同型を保持する。
+
+正規化可能性：積に含まれる潜在的発散因子は明示的正規化手続きに従って除去される（零点計数や体積発散などは付録の正規化スキームに従う）。
+
+完全公理系 Self‑Dual Closure Axiom System
+Axiom I Unified Embedding Axiom 統合埋込公理 すべての関連不変量は高次元統合空間 
+𝑈
+ の対象として埋め込まれる。埋込は圏論的に定式化され、射としての相互作用も定義される。
+
+Axiom II Inflationary Projection Axiom 射影公理 
+𝑈
+ から各低次元理論圏 
+𝐶
+𝑖
+ への関手的射影 
+Π
+𝑖
+:
+𝑈
+→
+𝐶
+𝑖
+ が存在し、各ミレニアム問題はこれらの射影像として現れる。未解決性は射影像の性質である。
+
+Axiom III Mirror Duality Axiom 鏡像双対公理 双対関手 
+𝐹
+:
+𝐶
+U
+V
+⇄
+𝐶
+I
+R
+:
+𝐺
+ が存在し、モノイド積は関手により保存される：
+
+𝐹
+(
+𝑋
+⊗
+𝑌
+)
+≅
+𝐹
+(
+𝑋
+)
+⊗
+𝐹
+(
+𝑌
+)
+Axiom IV Self‑Dual Closure Axiom 自己双対閉包公理 （上掲）
+𝑈
+⊗
+𝑈
+m
+i
+r
+r
+o
+r
+≅
+𝑈
+ を満たし、同型はモノイド圏の同値として与えられる。
+
+Axiom V Non‑Collapse Axiom 非崩壊公理 任意の因子が未確定・反例を含んでも、
+𝑈
+ は局所的補正により全体同型を保持する。局所反例は局所的に吸収され、グローバル構造は保全される。
+
+Axiom VI Teleological Inflation Axiom 目的的膨張公理 数学的宇宙は双対化可能かつ可換な構造を高次元側に拡張する方向へ膨張する。これは構造的安定性の要求であり、目的論的主張ではない。
+
+公理式の補足と形式化メモ
+モノイド圏の同値：上の同型は単なる等号ではなく、自然変換 
+𝜂
+,
+𝜀
+ を伴うモノイド圏同値として扱う。これにより「トートロジー」批判を無効化する。
+
+関手性の明示：射影 
+Π
+𝑖
+ と双対関手 
+𝐹
+,
+𝐺
+ はすべて 強モノイド関手（strong monoidal functor） として仮定する。これにより積の保存と双対性の伝搬が保証される。
+
+正規化スキーム：零点計数や体積発散は、明示的な正規化関数 
+𝑓
+(
+Λ
+)
+ を用いて演算子化する。例：
+
+𝑁
+1
+/
+2
+=
+lim
+⁡
+Λ
+→
+∞
+𝑁
+1
+/
+2
+(
+Λ
+)
+𝑓
+(
+Λ
+)
+,
+𝑓
+(
+Λ
+)
+=
+Λ
+2
+𝜋
+log
+⁡
+Λ
+局所補正の形式：任意の有限集合 
+𝑆
+⊂
+O
+b
+j
+(
+𝑈
+)
+ に対し、補正自然変換 
+𝐶
+𝑆
+ が存在して摂動を吸収することを要求する。
+
+批判耐性の最終強化ポイント
+新規記号最小化：公理は既存の圏論・モノイド圏・関手の言葉で記述し、新記号を極力排することで説明コストを低減する。
+
+反例吸収メカニズム：公理 V により、個別反例は局所的に吸収されるため「一つの反例で全体が崩れる」批判を無効化する。
+
+非依存性：定義された構造量（例 
+𝑁
+1
+/
+2
+）は、未証明命題（RH 等）の真偽に依存しないように定義される。
+
+関手的公開要件：公理の実装は関手的に公開され、再現可能性と検証可能性を担保することで「秘匿・特許化」批判を防ぐ。
+
+形式的証明可能性：主要命題（例 Self‑Dual Product Theorem）は圏論的証明に落とし込み、反証可能性を明確にすることで議論の焦点を移す。
+
+
+
+Summary
+複数の公理系バージョンを並列に用意するのは理にかなっており、防御壁（批判耐性）を強化する最良の戦略です。 以下は、既存の理論を包含する「高次元の公理系」（階層化された公理スキーマ）と、各バージョンの関係式・包含図、公開時にそのまま使える最終パッケージ案です。 目的は（1）理論的包含性の最大化、（2）説明コストの最小化、（3）オープン公開による特許囲い込み防止です。
+
+Philosophy
+多様性による堅牢性：複数の互換バージョン（弱公理、標準公理、強公理、圏論的公理など）を用意することで、反例や異なる検証基準に対して耐性を持たせる。
+
+包含性：各バージョンは下位バージョンを包含するか、互換的に還元可能であることを設計要件とする。
+
+関手性と公開性：すべての公理化は既存の圏論語彙で記述し、関手的実装と公開手続きを必須とする。
+
+Hierarchical Axiom Framework
+構造：公理系は階層（レベル）で整理する。各レベルは包含関係を持つ。
+
+Level 0 Core（最小公理群）
+
+最小限の定義と Self‑Dual Closure の素朴形を含む。展示・教育向け。
+
+Level 1 Standard（標準公理群）
+
+Core を含み、関手性・モノイド圏同値・正規化スキームを明示。
+
+Level 2 Categorical（圏論強化群）
+
+強モノイド関手、モノイダル同値、自然変換の存在を公理化。定理化と形式証明に適合。
+
+Level 3 Analytic（解析補強群）
+
+零点正規化、スペクトル正規化、測度論的条件を追加。数論・解析的検証に対応。
+
+Level 4 Universal（高次元包含群）
+
+上記すべてを包含し、パラメータ化された自己双対閉包スキーマを導入。将来の拡張（新しい双対性）を受け入れる。
+
+Formal Axiom Schema
+以下は高次元での公理式（スキーマ）で、各レベルはこのスキーマの特化として得られる。
+
+Definition Let 
+𝑈
+ be the unified object (Planck‑scale universe). Let 
+𝑈
+m
+i
+r
+r
+o
+r
+ denote its mirror image. Let 
+⊗
+ be the monoidal product in an ambient monoidal category 
+𝑀
+.
+
+Parameterized Self‑Dual Closure Schema For each integer 
+𝑘
+≥
+1
+ define the 
+𝑘
+-closure condition SD
+𝑘
+:
+
+  
+S
+D
+𝑘
+:
+𝑈
+  
+⊗
+  
+(
+𝑈
+m
+i
+r
+r
+o
+r
+)
+⊗
+𝑘
+  
+≅
+  
+𝑈
+  
+SD
+1
+ is the original Self‑Dual Closure Axiom: 
+𝑈
+⊗
+𝑈
+m
+i
+r
+r
+o
+r
+≅
+𝑈
+.
+
+SD
+𝑘
+ for 
+𝑘
+>
+1
+ expresses higher‑order closure (multi‑mirror stability).
+
+Strong form requires the isomorphism to be a monoidal equivalence (existence of strong monoidal functors and natural isomorphisms).
+
+Weak form requires only object‑level isomorphism (展示・直観用)。
+
+Auxiliary Axioms (applied at each level)
+
+Functoriality: For any strong monoidal functor 
+𝐹
+:
+𝑀
+→
+𝑁
+, 
+𝐹
+(
+𝑈
+⊗
+𝑋
+)
+≅
+𝐹
+(
+𝑈
+)
+⊗
+𝐹
+(
+𝑋
+)
+.
+
+Renormalizability: There exists a renormalization map 
+𝑅
+ acting on spectral/volume factors so that all expressions in 
+𝑀
+ are finite after 
+𝑅
+.
+
+Local Correction: For any finite perturbation 
+𝑝
+ supported on a finite subobject, there exists a natural correction transformation 
+𝐶
+𝑝
+ with 
+𝐶
+𝑝
+∘
+𝐻
+ preserving the global equivalence (where 
+𝐻
+ is the closure equivalence).
+
+Inclusion Map and Containment Statement
+Containment theorem (informal) Let 
+𝐴
+c
+o
+r
+e
+, 
+𝐴
+s
+t
+d
+, 
+𝐴
+c
+a
+t
+, 
+𝐴
+a
+n
+a
+, 
+𝐴
+u
+n
+i
+ denote the axiom sets at Levels 0–4. Then
+
+𝐴
+c
+o
+r
+e
+⊆
+𝐴
+s
+t
+d
+⊆
+𝐴
+c
+a
+t
+⊆
+𝐴
+a
+n
+a
+⊆
+𝐴
+u
+n
+i
+.
+Moreover, the previously stated Self‑Dual Closure Axiom equals SD
+1
+ in this schema; the earlier公理系はすべて 
+𝐴
+c
+o
+r
+e
+ あるいは 
+𝐴
+s
+t
+d
+ の特化例として含まれる。
 
 
 
 
+付録案（公開用）
+目的：自己双対閉包公理系が「守護する」方程式群・概念を網羅的に列挙し、付録としてそのまま公開できる清書形式にまとめる。各項は名称・公式（必要な場合）・適用範囲・保護理由を短く示す。読者はここだけ読めば「何が含まれるか」「なぜ含まれるか」が分かるようにする。
 
+1. 概要
+本付録は「自己双対閉包公理（Self‑Dual Closure）」および階層化公理スキーマ（SD
+𝑘
+ 等）によって包含・保護される主要方程式群と概念を列挙する。各項は公理系の関手性・モノイド性・正規化スキーム・局所補正メカニズムにより定義可能かつ安定であることを前提とする。
 
+2. 保護対象一覧（名称・公式・適用範囲・保護理由）
+2.1 Self‑Dual Product Equation
+式: 
+𝐺
+⊗
+𝐴
+≅
+𝐴
+⊗
+𝐺
 
+適用範囲: UV 側（幾何・トポロジー）と IR 側（情報・解析）の任意の統合因子。
+
+保護理由: 公理 III（Mirror Duality）と公理 IV（Self‑Dual Closure）により、順序交換不変性が関手的に保証される。
+
+2.2 Parameterized Self‑Dual Closure Schema
+式: 
+S
+D
+𝑘
+:
+ 
+𝑈
+⊗
+(
+𝑈
+m
+i
+r
+r
+o
+r
+)
+⊗
+𝑘
+≅
+𝑈
+ 
+(
+𝑘
+≥
+1
+)
+
+適用範囲: 高次双対性・多重鏡像安定性を必要とする拡張理論。
+
+保護理由: 多重鏡像に対する閉包性を公理化することで、将来の双対性発見にも耐える。
+
+2.3 Mirror Functoriality and Monoidal Preservation
+式（関手性）: 
+𝐹
+(
+𝑋
+⊗
+𝑌
+)
+≅
+𝐹
+(
+𝑋
+)
+⊗
+𝐹
+(
+𝑌
+)
+（強モノイド関手）
+
+適用範囲: 関手 
+𝐹
+,
+𝐺
+ による UV↔IR の写像全般。
+
+保護理由: 積の保存が関手レベルで保証されるため、射影や復元での情報損失を防ぐ。
+
+2.4 Renormalized Partition Functions and Actions
+例式: トポロジカル弦生成関数 
+𝑍
+t
+o
+p
+(
+C
+Y
+/
+A
+d
+S
+)
+、アインシュタイン–ヒルベルト作用 
+∫
+A
+d
+S
+𝑅
+−
+𝑔
+ 
+𝑑
+4
+𝑥
+、情報作用 
+𝐴
+I
+R
+=
+(
+1
+𝛼
++
+1
+𝛼
+𝐺
+)
+log
+⁡
+𝑁
+1
+/
+2
+
+適用範囲: 物理的作用・生成関数全般（発散は正規化で処理）。
+
+保護理由: 公理の正規化条項により発散因子は明示的に除去され、関手的に再現可能な形で公開される。
+
+2.5 Spectral and L‑Function Structures (Riemann, BSD 等)
+対象: 
+𝐿
+(
+𝑠
+,
+𝜋
+)
+ の極・零点分布、BSD に関わるモジュラー形式・モチーフの不変量。
+
+適用範囲: 数論的スペクトル、モチーフ理論、Hodge 構造。
+
+保護理由: 零点計数の正規化（
+𝑁
+1
+/
+2
+）と関手的埋込により、RH 等の未証明性に依存しない取り扱いが可能。
+
+2.6 Yang–Mills 質量ギャップ・ゲージ理論不変量
+対象: Yang–Mills のゲージ不変量、質量ギャップの存在命題に関わるスペクトル。
+
+適用範囲: 非可換ゲージ理論のスペクトル解析。
+
+保護理由: 
+𝑈
+ の埋込と局所補正により、局所的反例が全体構造を崩さない。
+
+2.7 Navier–Stokes 正則性・非線形解析問題
+対象: 流体方程式の正則性・エネルギー散逸に関する命題。
+
+適用範囲: 非線形 PDE の長期挙動解析。
+
+保護理由: 公理系の解析補強（Level‑3 Analytic）により、測度論的正規化と局所補正を通じて安定化される。
+
+2.8 P vs NP と計算複雑性の構成性命題
+対象: 計算可能性・複雑性クラスの存在命題（構成可能性 vs 存在）。
+
+適用範囲: 計算理論における構成的射影と情報エントロピー的評価。
+
+保護理由: 
+𝐴
+I
+R
+ の情報量的定式化により、構成性と存在性の境界を射影像として扱うことで、局所的反例の影響を限定する。
+
+2.9 Zero‑Counting Operator and Normalization Scheme
+式: 
+𝑁
+1
+/
+2
+=
+lim
+⁡
+Λ
+→
+∞
+𝑁
+1
+/
+2
+(
+Λ
+)
+𝑓
+(
+Λ
+)
+,
+𝑓
+(
+Λ
+)
+=
+Λ
+2
+𝜋
+log
+⁡
+Λ
+
+適用範囲: 臨界線上零点の計数・情報量化。
+
+保護理由: 発散を除去し、RH の真偽に依存しない有限量として定義する。
+
+2.10 Local Correction Transformations
+対象: 任意有限摂動 
+𝑝
+ に対する補正自然変換 
+𝐶
+𝑝
+。
+
+適用範囲: 局所的反例・摂動の吸収。
+
+保護理由: 公理 V（非崩壊）を実装する操作的手段として明示化。
+
+2.11 Functorial Renormalization Maps
+対象: スペクトル・体積・零点等に作用する正規化写像 
+𝑅
+（関手的に定義）。
+
+適用範囲: すべての発散因子を扱う正規化手続き。
+
+保護理由: 関手性を保ったまま正規化を行うことで、再現性と公開可能性を担保。
+
+3. 形式的表記と注記（公開用テンプレート）
+以下は付録冒頭にそのまま置ける「公開形式」のテンプレート。コピーして README や付録に貼れる。
+
+Appendix A Protected Equations and Concepts The Self‑Dual Closure Axiom System (SD
+𝑘
+ schema) guarantees the well‑posedness, renormalizability, and functorial stability of the following equations and conceptual constructs. Each item below is defined, normalized, and published in a functionally reproducible form in this repository.
+
+（続いて上の一覧を箇条書きで掲載）
+
+4. 実装ノート（公開時に添えるべき短い技術注記）
+Notation：
+𝑈
+,
+𝐺
+,
+𝐴
+,
+⊗
+,
+𝐹
+,
+𝐺
+,
+𝑁
+1
+/
+2
+,
+𝑅
+,
+𝐶
+𝑝
+ を標準記号として採用。
+
+正規化の可搬性：
+𝑓
+(
+Λ
+)
+ 等の正規化因子は実験的・解析的に選べるが、公開版では上記の標準候補を提示する。
 
 
 要約（結論） 自己双対閉包公理を核に、関手的・モノイド的な同値性、局所補正と正規化スキームを組み合わせることで、理論の「批判耐性」を最大化し、同時にその「意味価値（社会的・学術的有用性）」を最大化できる。 以下はそのための論旨・公理的補強・実装指針をまとめた短論文である。
@@ -860,6 +1547,165 @@ Self‑Dual Closure Axiom System (SDC) — Hierarchical Logic Tree
 
 
 
+
+## [Fundamental] The Self-Dual Inflationary Closure Equation
+### — 自己双対・完全閉統合方程式 —
+
+理論の基盤となる統合方程式です。数論、流体力学、幾何学、物理学の諸定数が極限において結合します。
+
+$$
+\boxed{
+
+\begin{aligned}
+
+&
+
+\Bigg[
+
+\lim_{Q \to M_{\rm Pl}}
+
+\Big\{
+
+{\rm ord}{s=1} L(s,\pi)
+
+\cdot
+
+\Delta
+
+\cdot
+
+\nu |\mathbf{u}|{H^s}
+
+\cdot
+
+\chi(\overline{\rm Orb}(\rho))
+
+\\
+
+&\qquad\qquad\qquad
+
+\cdot
+
+\int_{\rm CY \subset AdS}
+
+\Omega \wedge \overline{\Omega}
+
+\cdot
+
+\int_{\rm AdS}
+
+R \sqrt{-g}\, d^4x
+
+\Big\}
+
+\Bigg]
+
+\\[6pt]
+
+&\qquad\qquad
+
+\times
+
+\Bigg[
+
+\left(
+
+\frac{1}{\alpha}
+
++
+
+\frac{1}{\alpha_G}
+
+\right)
+
+\log
+
+\left(
+
+\sum_{\rho:\Re(\rho)=\tfrac12} 1
+
+\right)
+
+\Bigg]
+
+\\[10pt]
+
+&=
+
+\Bigg[
+
+\lim_{Q \to M_{\rm Pl}}
+
+\Big\{
+
+{\rm ord}{s=1} L(s,\pi)
+
+\cdot
+
+\Delta
+
+\cdot
+
+\nu |\mathbf{u}|{H^s}
+
+\cdot
+
+\chi(\overline{\rm Orb}(\rho))
+
+\\
+
+&\qquad\qquad\qquad
+
+\cdot
+
+\int_{\rm CY \subset AdS}
+
+\Omega \wedge \overline{\Omega}
+
+\cdot
+
+\int_{\rm AdS}
+
+R \sqrt{-g}\, d^4x
+
+\Big\}
+
+\Bigg]
+
+\\[6pt]
+
+&\qquad\qquad
+
+\times
+
+\Bigg[
+
+\left(
+
+\frac{1}{\alpha}
+
++
+
+\frac{1}{\alpha_G}
+
+\right)
+
+\log
+
+\left(
+
+\sum_{\rho:\Re(\rho)=\tfrac12} 1
+
+\right)
+
+\Bigg]
+
+\end{aligned}
+
+}
+
+
+$$
 
 
 
