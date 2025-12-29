@@ -1,5 +1,10 @@
 # Theory: The Universal Axiom System for the Self-Dual Inflationary Closure Equation
 
+This file contains core mathematical formulas, definitions, and supplementary YouTube explanations for the unified theory of the Millennium Prize Problems.
+
+Summary
+These equations demonstrate that the Millennium Prize Problems presented by the Clay Institute (Riemann Hypothesis, Navier-Stokes Hypothesis, Hodge Conjecture, BSD Conjecture, P vs NP, Yang-Mills) converge to a single axiom system in a self-dual inflationary structure at the Planck scale ($M_{\rm Pl}$).
+
 このファイルは、ミレニアム懸賞問題の統一理論に関する核心的な数式、定義、およびYouTube解説の補足資料を蓄積するものです。
 
 ---
@@ -19,7 +24,9 @@ https://www.youtube.com/watch?v=RVIfM5pebpE
 
 ---
 
+We have created a logic tree to intuitively understand the axiom system of "Self-Dual Closure (SDC)" and visualize its robust structure.
 
+This tree represents a logical hierarchy, from the "foundation (static structure)" of the universe to its "evolution (dynamic process)" and then to its "concrete applications."
 
 「自己双対閉包（Self-Dual Closure: SDC）」の公理系を、直感的に理解し、かつその堅牢な構造を視覚化するための**ロジックツリー**を作成しました。
 
@@ -69,6 +76,18 @@ https://www.youtube.com/watch?v=RVIfM5pebpE
         (宇宙がフリーズしないための永久機関)
 
 ```
+
+When presenting this logic tree, emphasizing the following three points will silence critics and increase understanding.
+
+1. **The Kernel**:
+The universe's operating system begins with "relationships (Yoneda's lemma)" rather than individual "things." This elevates the logic to a higher level, escaping specific material criticism.
+
+2. **The Mirror Guard**:
+Geometry (physics) and number theory (information) are connected at the center, so that attacks on one side are complemented by the mathematical truth of the other. For example, if someone claims that "Navier-Stokes' proof is insufficient," we can mirror-refute it by saying, "Optimization on the number theory side (P=NP) guarantees it."
+
+3. **Closure Layer**:
+This is the core of "SDC Theory." Only information that passes through the axioms (I, II, III) can be embodied as physical phenomena (fluids) or life (protocells). This layer acts as a "safety device" that filters out singularities (explosions).
+
 
 ---
 
