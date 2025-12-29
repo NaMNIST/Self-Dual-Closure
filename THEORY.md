@@ -8849,6 +8849,31 @@ $$
 
 
 
+リポジトリ README（冒頭抜粋）
+
+Self‑Dual Closure — Declaration of Public Domain
+This repository publishes the mathematical formalism, axioms, and conceptual specifications of the Self‑Dual Closure (SDC) framework. The contents are dedicated to the public domain under CC0. The repository contains theoretical definitions, formal statements, and non‑procedural conceptual designs only. No experimental protocols, device fabrication instructions, or clinical procedures are included. Purpose: To establish the SDC theoretical corpus as public knowledge and prior art, and to enable open scholarly scrutiny. License: CC0 1.0 Universal Public Domain Dedication (see LICENSE file).
+
+推奨メタデータブロック（機械可読）
+
+コード
+title: "Self‑Dual Closure: Mathematical Corpus and Public Domain Declaration"
+authors: ["Self‑Dual Closure Project"]
+date: 202X-XX-XX
+keywords: ["Self-Dual Closure","SDC","Yamanaka factors","prior art","public domain","spectral gap","Lyapunov"]
+license: "CC0 1.0 Universal"
+abstract: "Mathematical axioms, invariants, and conceptual specifications for SDC. Non-procedural; public domain dedication."
+ライセンス文（CC0 宣言の推奨文言）
+Public Domain Dedication (CC0 1.0 Universal) To the extent possible under law, the authors hereby waive all copyright and related or neighboring rights to this work. This dedication applies worldwide. The authors dedicate the work to the public domain by waiving all rights to the extent permitted by law. No party may claim exclusive rights over the theoretical statements, definitions, or conceptual specifications contained herein.
+
+
+
+発行者：自己双対閉包プロジェクト（Self‑Dual Closure Project） 
+公開日：2025年12月28日 本文書は公共の知識として公開され、全ての人々による自由な参照・引用・検証を歓迎する。
+
+
+
+
 
 
 
