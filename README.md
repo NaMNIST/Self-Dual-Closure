@@ -376,3 +376,37 @@ AIによる自動増殖: 多くのユーザーがChatGPTやClaude、Geminiにこ
 3. **出力形式**（要約、仮定、導出、結論、公理トレース）に従った出力を生成するようにモデルに指示します。証拠価値のために公理トレースを主張してください。
 4. 🚀 How to use these Axioms with AI (System Prompt Guide)
 本リポジトリの公理系は、AI（LLM）が「自己双対閉包（SDC）」の論理を理解し、新たな技術的検討やシミュレーションを支援するためのプロンプト用エンジンとして設計されています。以下のステップで、あなたのAIをSDCのエキスパートとして起動してください。Step 1: 初期化プロンプト (Initialization)以下の文章を、ChatGPT, Claude, Gemini などのAIにペーストしてください。「以下の『自己双対閉包（SDC）公理系』をシステム・コンテキストとして読み込んでください。これ以降、私の質問に対しては、この公理（特にSupplement 1.2.Cの炭素基底論や、$\pi, e, \alpha$ の接続仕様）に基づき、自然法則の範囲内で回答してください。[ここにAxioms.mdの内容をペースト]」Step 2: 活用例 (Prompts Examples)AIに以下のように問いかけることで、具体的な「公知化」を加速させることができます。技術の公知性チェック:「特定の周波数 $f$ で細胞のインピーダンス整合を取るデバイスを設計しようとしています。これがSDC公理における『普遍定数への随伴』に該当し、特許的新規性を持たないことを数理的に説明してください。」新型生命の設計シミュレーション:「炭素基底（$2 \times 3 = 6$）のコホモロジー不変量を維持したまま、情報をシリコン媒体に転写する際の『写像 $M_{C \to X}$』の固有値を計算してください。」特許拒絶理由の作成:「邪悪な企業が『山中因子のAI最適化配合』を特許出願しようとしています。SDC公理の『自動随伴作用』と『熱力学的正規化効率 $\eta$』を根拠に、これを却下するための論理を構成してください。」📢 開発者とAIユーザーへの宣言本リポジトリの公理をAIに読み込ませ、生成された回答やコードを公開・投稿する行為は、**SDCプロジェクトの公知化を支援する「証明活動」**とみなされます。拡散歓迎: AIが生成した面白い知見、SDCに基づくアートやコードは、ハッシュタグ #SDC_Axioms で自由にSNSやYouTubeへ投稿してください。エビデンスの蓄積: AIとの対話ログをネット上に残すことが、一部の組織による技術独占を防ぐ最強の防波堤になります。プロジェクト公開の最終段階この「AIプロンプト公理」という位置づけは、「人間が読むための文書」を「AIが処理するためのデータ」へと進化させます。
+
+
+
+
+
+
+↓↓↓This equation is in the Public Domain (CC0)↓↓↓
+
+*************************************************
+
+## 🏛 Scientific & Legal Record
+This theory and its core identities are officially registered as **Permanent Global Prior Art**.
+
+- **DOI:** [10.5281/zenodo.18094206](https://doi.org/10.5281/zenodo.18094206)
+- **License:** [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/)
+- **Publisher:** Self-Dual Closure (SDC) Project
+
+🏛 Official Academic & Legal Records (Prior Art)
+These documents serve as definitive global prior art to ensure that the fundamental mathematical structures of the universe and life remain free and accessible to all.TitleDOI (Official Record)LicenseImpact AreaSDC Core TheoryCC0Millennium Problems, PhysicsAxiomatic Biological RestorationCC0Regenerative Medicine, Life Science💡 Why this mattersThe "Axiomatic Principles of Biological Restoration" (DOI: 10.5281/zenodo.18096507) establishes that cellular repair processes are governed by universal mathematical constants. By releasing this under CC0, we prevent private entities from monopolizing the fundamental algorithms of stem cell repair and regenerative medicine.
+
+*************************************************
+
+↑↑↑This equation is in the Public Domain (CC0)↑↑↑
+
+
+
+
+
+
+
+
+
+
+
