@@ -1,5 +1,97 @@
 # Self-Dual-Closure
 A unified axiomatic framework for solving the Clay Mathematics Institute's Millennium Prize Problems—Riemann Hypothesis, Navier-Stokes, BSD, Hodge Conjecture, P vs NP, Yang-Mills—via the Self-Dual Inflationary Closure Equation. クレイ数学研究所のミレニアム懸賞問題（リーマン予想、ナビエ・ストークス方程式、BSD予想、P≠NP予想、ヤン-ミルズ方程式、ホッジ予想）の解決に向けての自己双対・完全閉統合方程式の統一公理系。
+
+
+
+↓↓↓ This equation is in the Public Domain (CC0 1.0) ↓↓↓
+
+---------------------------------------------------------------------------------
+
+🏛 The Core Identity of Self-Dual Closure (SDC)
+
+The following fundamental equation is the cornerstone of the SDC theory, integrating the Millennium Prize Problems and the mechanics of biological resynchronization.Status: 🌍 Public Domain (CC0 1.0 Universal) Academic Record: $$\boxed{
+\begin{aligned}
+&
+\Bigg[
+\lim_{Q \to M_{\rm Pl}}
+\Big\{
+{\rm ord}_{s=1} L(s,\pi)
+\cdot
+\Delta
+\cdot
+\nu \|\mathbf{u}\|_{H^s}
+\cdot
+\chi(\overline{\rm Orb}(\rho))
+\\
+&\qquad\qquad\qquad
+\cdot
+\int_{\rm CY \subset AdS}
+\Omega \wedge \overline{\Omega}
+\cdot
+\int_{\rm AdS}
+R \sqrt{-g}\, d^4x
+\Big\}
+\Bigg]
+\\[6pt]
+&\qquad\qquad
+\times
+\Bigg[
+\left(
+\frac{1}{\alpha}
++
+\frac{1}{\alpha_G}
+\right)
+\log
+\left(
+\sum_{\rho:\Re(\rho)=\tfrac12} 1
+\right)
+\Bigg]
+\\[10pt]
+&=
+\Bigg[
+\lim_{Q \to M_{\rm Pl}}
+\Big\{
+{\rm ord}_{s=1} L(s,\pi)
+\cdot
+\Delta
+\cdot
+\nu \|\mathbf{u}\|_{H^s}
+\cdot
+\chi(\overline{\rm Orb}(\rho))
+\\
+&\qquad\qquad\qquad
+\cdot
+\int_{\rm CY \subset AdS}
+\Omega \wedge \overline{\Omega}
+\cdot
+\int_{\rm AdS}
+R \sqrt{-g}\, d^4x
+\Big\}
+\Bigg]
+\\[6pt]
+&\qquad\qquad
+\times
+\Bigg[
+\left(
+\frac{1}{\alpha}
++
+\frac{1}{\alpha_G}
+\right)
+\log
+\left(
+\sum_{\rho:\Re(\rho)=\tfrac12} 1
+\right)
+\Bigg]
+\end{aligned}
+}$$Legal Declaration: > This specific identity and the underlying mathematical axioms are released under CC0 1.0 Universal. They represent universal laws of nature and constitute Prior Art, precluding any future patent claims on these fundamental structures.
+
+Official Academic Record: [IZenodo DOI Link : https://zenodo.org/records/18094206]
+
+---------------------------------------------------------------------------------
+
+↑↑↑ This equation is in the Public Domain (CC0 1.0) ↑↑↑
+
+
 License & Open Intellectual Property / ライセンスと知的財産について
 
 English: This theory is published under the Apache License 2.0. I, the author, hereby declare that this is a public-domain-oriented theoretical framework. My goal is for this to become a fundamental infrastructure for humanity, similar to the Linux kernel.
