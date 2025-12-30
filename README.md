@@ -11,7 +11,9 @@ A unified axiomatic framework for solving the Clay Mathematics Institute's Mille
 
 The following fundamental equation is the cornerstone of the SDC theory, integrating the Millennium Prize Problems and the mechanics of biological resynchronization.Status: 🌍 Public Domain (CC0 1.0 Universal) Academic Record: 
 
-$$\boxed{
+$$
+
+\boxed{
 \begin{aligned}
 &
 \Bigg[
@@ -85,7 +87,9 @@ R \sqrt{-g}\, d^4x
 \right)
 \Bigg]
 \end{aligned}
-}$$
+}
+
+$$
 
 Legal Declaration: > This specific identity and the underlying mathematical axioms are released under CC0 1.0 Universal. They represent universal laws of nature and constitute Prior Art, precluding any future patent claims on these fundamental structures.
 
