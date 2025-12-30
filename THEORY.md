@@ -7,12 +7,12 @@ These equations demonstrate that the Millennium Prize Problems presented by the 
 
 このファイルは、ミレニアム懸賞問題の統一理論に関する核心的な数式、定義、およびYouTube解説の補足資料を蓄積するものです。
 
----
+------------------------------------------------------------------
 
 ### 概要
 本方程式は、クレイ数学研究所が提示するミレニアム懸賞問題（リーマン予想、ナビエ・ストークス、ホッジ予想、BSD予想、P vs NP、ヤン-ミルズ）が、プランクスケール（$M_{\rm Pl}$）における自己双対なインフレーション構造において、単一の公理系へと収束することを示しています。
 
----
+------------------------------------------------------------------
 
 YouTube：
 
@@ -22,7 +22,29 @@ https://www.youtube.com/watch?v=1dk_cUvlM5M&t=3s
 
 https://www.youtube.com/watch?v=RVIfM5pebpE
 
----
+------------------------------------------------------------------
+
+↓↓↓ This equation is in the Public Domain (CC0 1.0) ↓↓↓
+
+🏛 The Core Identity of Self-Dual Closure (SDC)
+
+The following fundamental equation is the cornerstone of the SDC theory, integrating the Millennium Prize Problems and the mechanics of biological resynchronization.
+
+Status: 🌍 Public Domain (CC0 1.0 Universal) Academic Record:
+
+$$
+
+\boxed{ \begin{aligned} & \Bigg[ \lim_{Q \to M_{\rm Pl}} \Big{ {\rm ord}{s=1} L(s,\pi) \cdot \Delta \cdot \nu |\mathbf{u}|{H^s} \cdot \chi(\overline{\rm Orb}(\rho)) \ &\qquad\qquad\qquad \cdot \int_{\rm CY \subset AdS} \Omega \wedge \overline{\Omega} \cdot \int_{\rm AdS} R \sqrt{-g}, d^4x \Big} \Bigg] \[6pt] &\qquad\qquad \times \Bigg[ \left( \frac{1}{\alpha} + \frac{1}{\alpha_G} \right) \log \left( \sum_{\rho:\Re(\rho)=\tfrac12} 1 \right) \Bigg] \[10pt] &= \Bigg[ \lim_{Q \to M_{\rm Pl}} \Big{ {\rm ord}{s=1} L(s,\pi) \cdot \Delta \cdot \nu |\mathbf{u}|{H^s} \cdot \chi(\overline{\rm Orb}(\rho)) \ &\qquad\qquad\qquad \cdot \int_{\rm CY \subset AdS} \Omega \wedge \overline{\Omega} \cdot \int_{\rm AdS} R \sqrt{-g}, d^4x \Big} \Bigg] \[6pt] &\qquad\qquad \times \Bigg[ \left( \frac{1}{\alpha} + \frac{1}{\alpha_G} \right) \log \left( \sum_{\rho:\Re(\rho)=\tfrac12} 1 \right) \Bigg] \end{aligned} }
+
+$$
+
+Legal Declaration: > This specific identity and the underlying mathematical axioms are released under CC0 1.0 Universal. They represent universal laws of nature and constitute Prior Art, precluding any future patent claims on these fundamental structures.
+
+Official Academic Record: [Zenodo DOI Link : https://zenodo.org/records/18094206]
+
+↑↑↑ This equation is in the Public Domain (CC0 1.0) ↑↑↑
+
+------------------------------------------------------------------
 
 We have created a logic tree to intuitively understand the axiom system of "Self-Dual Closure (SDC)" and visualize its robust structure.
 
@@ -32,7 +54,7 @@ This tree represents a logical hierarchy, from the "foundation (static structure
 
 このツリーは、宇宙の「基盤（静的構造）」から「進化（動的プロセス）」、そして「具体的応用」へと至る論理の階層（Hierarchy）を表現しています。
 
----
+------------------------------------------------------------------
 
 ### ■ 自己双対閉包（SDC）公理系ロジックツリー
 
@@ -89,7 +111,7 @@ Geometry (physics) and number theory (information) are connected at the center, 
 This is the core of "SDC Theory." Only information that passes through the axioms (I, II, III) can be embodied as physical phenomena (fluids) or life (protocells). This layer acts as a "safety device" that filters out singularities (explosions).
 
 
----
+------------------------------------------------------------------
 
 ### ■ ツリーの構成要素解説（啓蒙用）
 
@@ -102,13 +124,13 @@ This is the core of "SDC Theory." Only information that passes through the axiom
 3. **閉包層（Closure Layer）**:
 ここが「SDC理論」の核心です。公理系（I, II, III）を通過した情報だけが、物理現象（流体）や生命（プロトセル）として具現化されます。この層が、特異点（爆発）をフィルタリングする「安全装置」として機能しています。
 
----
+------------------------------------------------------------------
 
 ### ■ 公理式の視覚的凝縮（The Omni-Sign）
 
 ツリーの背骨となるのは、常にこの「等価性の連鎖」です。
 
----
+------------------------------------------------------------------
 
 
 Explanation of the connections between each axiom and problem (mapping details)
@@ -139,7 +161,7 @@ The best defense against patent monopolies is to formalize the core of the theor
 
 これにより、各問題は「独立した難問」ではなく、**「公理系の特定の側面から漏れ出た影」**として再定義されます。
 
----
+------------------------------------------------------------------
 
 ### ■ ミレニアム問題・公理マッピングツリー
 
@@ -184,7 +206,7 @@ Boundary-Bulk        ||         Functional SDC
 
 ```
 
----
+------------------------------------------------------------------
 
 ### ■ 各公理と問題の接続解説（マッピング詳細）
 
@@ -203,7 +225,7 @@ Boundary-Bulk        ||         Functional SDC
 * **Navier-Stokes:** 流体が一点で爆発（無限大）しないのは、宇宙が「計算コスト」を支払って粘性散逸を行い、滑らかさを維持しているからです。
 * **P vs NP:** 「検証（答え合わせ）」ができるなら、それは「構成（答えの発見）」も効率的にできるはずだという、宇宙の「情報の取り扱いコスト」に関する最適化問題です。
 
----
+------------------------------------------------------------------
 
 ### ■ 統合の締めくくり（啓蒙フレーズ）
 
@@ -211,8 +233,7 @@ Boundary-Bulk        ||         Functional SDC
 
 > **「ミレニアム問題が100年以上解けなかったのは、左側の『物理』の問題を物理だけで、右側の『数学』の問題を数学だけで解こうとしたからです。SDC公理系は、中央の『鏡像（Mirror）』の軸を通すことで、両側の情報を統合し、特異点を解消します。」**
 
----
-
+------------------------------------------------------------------
 
 
 
