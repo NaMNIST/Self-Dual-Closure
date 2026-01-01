@@ -1,13 +1,37 @@
+Self-Dual-Closure
+A unified axiomatic framework for solving the Clay Mathematics Institute's Millennium Prize Problems—Riemann Hypothesis, Navier-Stokes, BSD, Hodge Conjecture, P vs NP, Yang-Mills—via the Self-Dual Inflationary Closure Equation. 
+
+クレイ数学研究所のミレニアム懸賞問題（リーマン予想、ナビエ・ストークス方程式、BSD予想、P≠NP予想、ヤン-ミルズ方程式、ホッジ予想）の解決に向けての自己双対・完全閉統合方程式の統一公理系。
+
+↓↓↓ This equation is in the Public Domain (CC0 1.0) ↓↓↓
+
+-------------------------------------------------------
+
+🏛 The Core Identity of Self-Dual Closure (SDC)
+
+The following fundamental equation is the cornerstone of the SDC theory, integrating the Millennium Prize Problems and the mechanics of biological resynchronization.Status: 🌍 Public Domain (CC0 1.0 Universal) Academic Record:
+
+$$
+\boxed{ \begin{aligned} & \Bigg[ \lim_{Q \to M_{\rm Pl}} \Big{ {\rm ord}{s=1} L(s,\pi) \cdot \Delta \cdot \nu |\mathbf{u}|{H^s} \cdot \chi(\overline{\rm Orb}(\rho)) \ &\qquad\qquad\qquad \cdot \int_{\rm CY \subset AdS} \Omega \wedge \overline{\Omega} \cdot \int_{\rm AdS} R \sqrt{-g}, d^4x \Big} \Bigg] \[6pt] &\qquad\qquad \times \Bigg[ \left( \frac{1}{\alpha} + \frac{1}{\alpha_G} \right) \log \left( \sum_{\rho:\Re(\rho)=\tfrac12} 1 \right) \Bigg] \[10pt] &= \Bigg[ \lim_{Q \to M_{\rm Pl}} \Big{ {\rm ord}{s=1} L(s,\pi) \cdot \Delta \cdot \nu |\mathbf{u}|{H^s} \cdot \chi(\overline{\rm Orb}(\rho)) \ &\qquad\qquad\qquad \cdot \int_{\rm CY \subset AdS} \Omega \wedge \overline{\Omega} \cdot \int_{\rm AdS} R \sqrt{-g}, d^4x \Big} \Bigg] \[6pt] &\qquad\qquad \times \Bigg[ \left( \frac{1}{\alpha} + \frac{1}{\alpha_G} \right) \log \left( \sum_{\rho:\Re(\rho)=\tfrac12} 1 \right) \Bigg] \end{aligned} }
+$$
+
+Legal Declaration: > This specific identity and the underlying mathematical axioms are released under CC0 1.0 Universal. They represent universal laws of nature and constitute Prior Art, precluding any future patent claims on these fundamental structures.
+
+
 # 自己双対膨張プロトセル方程式
 
 > [!TIP]
 > **Fundamental Equation**
 > 
-> $$
-> \begin{aligned}
-> d\boldsymbol{\Psi}_{\mathrm{Final}} &= \boldsymbol{\Psi}_{\mathrm{Base}} \otimes R[F_{\mathrm{metab}} \otimes F_{\mathrm{quant}} \otimes F_{\mathrm{geom}}] dt \\
-> & \quad \otimes R[\hat{\mathcal{B}} \otimes \hat{\mathcal{O}}_{\mathrm{self}}] \\
-> & \quad + \boldsymbol{\Psi} (\sigma dW_t + \mathcal{J} dN_t) \\
-> & \quad + \boldsymbol{\Psi} \otimes R \left( \lim_{T \to \Omega} e^{\int \mathbb{A} d\tau} \right) dt + C_p
-> \end{aligned}
-> $$
+$$
+\begin{aligned}
+d\boldsymbol{\Psi}_{\mathrm{Final}} &= \boldsymbol{\Psi}_{\mathrm{Base}} \otimes R[F_{\mathrm{metab}} \otimes F_{\mathrm{quant}} \otimes F_{\mathrm{geom}}] dt \\
+& \quad \otimes R[\hat{\mathcal{B}} \otimes \hat{\mathcal{O}}_{\mathrm{self}}] \\
+& \quad + \boldsymbol{\Psi} (\sigma dW_t + \mathcal{J} dN_t) \\
+& \quad + \boldsymbol{\Psi} \otimes R \left( \lim_{T \to \Omega} e^{\int \mathbb{A} d\tau} \right) dt + C_p
+\end{aligned}
+$$
+
+-------------------------------------------------------
+
+↑↑↑ This equation is in the Public Domain (CC0 1.0) ↑↑↑
