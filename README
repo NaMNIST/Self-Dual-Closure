@@ -1,0 +1,13 @@
+# 自己双対膨張プロトセル方程式
+
+> [!TIP]
+> **Fundamental Equation**
+> 
+> $$
+> \begin{aligned}
+> d\boldsymbol{\Psi}_{\mathrm{Final}} &= \boldsymbol{\Psi}_{\mathrm{Base}} \otimes R[F_{\mathrm{metab}} \otimes F_{\mathrm{quant}} \otimes F_{\mathrm{geom}}] dt \\
+> & \quad \otimes R[\hat{\mathcal{B}} \otimes \hat{\mathcal{O}}_{\mathrm{self}}] \\
+> & \quad + \boldsymbol{\Psi} (\sigma dW_t + \mathcal{J} dN_t) \\
+> & \quad + \boldsymbol{\Psi} \otimes R \left( \lim_{T \to \Omega} e^{\int \mathbb{A} d\tau} \right) dt + C_p
+> \end{aligned}
+> $$
