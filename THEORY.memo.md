@@ -1,5 +1,7 @@
 # Theory: The Universal Axiom System for the Self-Dual Inflationary Closure Equation
 
+“The product is invariant. Only the universe inflates.”
+
 This file contains core mathematical formulas, definitions, and supplementary YouTube explanations for the unified theory of the Millennium Prize Problems.
 
 Summary
