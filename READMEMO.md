@@ -1,7 +1,7 @@
 # Self-Dual-Closure
 A unified axiomatic framework for solving the Clay Mathematics Institute's Millennium Prize Problems—Riemann Hypothesis, Navier-Stokes, BSD, Hodge Conjecture, P vs NP, Yang-Mills—via the Self-Dual Inflationary Closure Equation. クレイ数学研究所のミレニアム懸賞問題（リーマン予想、ナビエ・ストークス方程式、BSD予想、P≠NP予想、ヤン-ミルズ方程式、ホッジ予想）の解決に向けての自己双対・完全閉統合方程式の統一公理系。
 
-
+“The product is invariant. Only the universe inflates.”
 
 ↓↓↓ This equation is in the Public Domain (CC0 1.0) ↓↓↓
 
