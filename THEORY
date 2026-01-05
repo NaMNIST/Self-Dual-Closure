@@ -5537,6 +5537,320 @@ Self-duality enables both.
 SHA-256：7bc6288fca3185e72709ea64ce0e283d7a693f16993425be3a4f2b118ba20b6e
 
 
+Speed-Driven Categorization (SDC):A Minimal cⁿ-Hierarchical Extension of Renormalization Group Flow
+
+Speed-Driven Categorization (SDC):
+
+Boundary Definition and Physical Closure
+
+Abstract
+Speed-Driven Categorization (SDC) is a minimal structural framework that reorganizes effective physical theories by classifying all contributions according to powers of the speed-of-light generator cnc^ncn, rather than by introducing new particles, forces, or speculative degrees of freedom.
+
+This work provides a boundary definition and physical closure of the SDC framework by explicitly fixing its upper and lower operational limits at the C9\mathcal{C}^9C9 and C−8\mathcal{C}^{-8}C−8 hierarchies, respectively. These two boundaries act as complementary constraints:
+C9\mathcal{C}^9C9 defines the highest non-trivial regime with physical, observational, and engineering relevance, while C−8\mathcal{C}^{-8}C−8 establishes the minimal impedance and causal continuity required for realizable dynamics.
+
+At the core of SDC lies a canonical text-only formulation of the effective action,
+
+Seff=∑n∈ZcnLn[ϕi,∂μ,gμν;μ],\mathrm{Seff} = \sum_{n \in \mathbb{Z}} c^n \mathcal{L}_n[\phi_i, \partial_\mu, g_{\mu\nu}; \mu],Seff=n∈Z∑cnLn[ϕi,∂μ,gμν;μ],
+
+which is presented here as a public-domain prior-art definition.
+Within this structure, renormalization group (RG) flow is reinterpreted as a two-dimensional process: conventional energy-scale flow along μ\muμ, and hierarchical structural flow along nnn.
+
+A key result of this work is the identification of an operational fixed point,
+
+C9⋅C−8→c,\mathcal{C}^9 \cdot \mathcal{C}^{-8} \rightarrow c,C9⋅C−8→c,
+
+demonstrating that SDC is closed from above and below such that all realizable physics renormalizes to a single, operational speed ccc. This closure ensures internal consistency, dimensional stability, and prevents unphysical extensions beyond the defined hierarchy.
+
+The present document does not propose new physical entities, does not rely on speculative particles, and does not claim phenomenological completion. Instead, it serves as a clarification, boundary declaration, and prior-art marker, establishing a minimal and non-proprietary structural language for future theoretical, computational, and engineering developments consistent with relativistic causality and effective field theory.
+
+This work is released under CC0 1.0 Universal, affirming that the structural principles described herein are part of the public domain and cannot be meaningfully privatized or monopolized.
+
+Keywords 
+Speed-Driven Categorization (SDC),
+Effective Field Theory (EFT),
+Renormalization Group Flow,
+Scale Hierarchy,
+Speed-of-Light Generator,
+Relativistic Causality,
+Operational Physics,
+Physical Closure,
+Hierarchy Boundary Definition,
+Upper and Lower Scale Cutoffs,
+C⁹ Boundary,
+C⁻⁸ Impedance Boundary,
+Impedance and Dissipation,
+Information Flow in Physics,
+Causal Structure,
+Dimensional Analysis,
+Action Decomposition,
+Public Domain Physics,
+CC0 Prior Art,
+Non-Proprietary Theory Framework,
+Structural Reorganization of Known Theories,
+No-New-Particles Assumption,
+Minimal Theoretical Framework,
+RG–Hierarchy Dual Flow,
+Operational Fixed Point,
+Normalization to c,
+Engineering-Relevant Physics,
+Foundations of Physical Modeling,
+Causality-Preserving Extensions,
+Boundary-Constrained Theoretical Space
+
+工学寄り要旨(Engineering-Oriented Abstract)
+本研究は、**Speed-Driven Categorization(SDC)**を、理論物理の主張ではなく、工学的設計言語および実装境界条件として定式化することを目的とする。
+
+SDC は、有効作用を光速生成子 cnc^ncn によって階層分解する最小構造であり、新粒子仮定や新相互作用を導入することなく、既存の有効理論・数値モデル・制御系を**再配置(re-indexing)**するための枠組みである。本研究では、SDC の適用範囲を 上限 C9\mathcal{C}^9C9 および 下限 C−8\mathcal{C}^{-8}C−8 に明示的に制限し、工学的に意味を持つ最小閉包構造を定義する。
+
+C9\mathcal{C}^9C9 は、観測・計測・数値計算・材料工学・エネルギー工学の観点から、非自明かつ操作可能な最大階層として位置付けられる。一方、C−8\mathcal{C}^{-8}C−8 は、インピーダンス・散逸・因果連続性の下限を与え、数値的不安定性や非物理的発散を防ぐ実装上の安全境界として機能する。
+
+本研究で示される重要な設計原理は、
+
+C9⋅C−8→c\mathcal{C}^9 \cdot \mathcal{C}^{-8} \rightarrow cC9⋅C−8→c
+
+という **運用上の正規化点(operational fixed point)**である。
+これは、どのような高次スケーリングや低次補正を含むモデルであっても、実装可能な物理は最終的に単一の速度定数 ccc に正規化されることを意味する。
+
+この結果は、以下の工学分野に直接的な示唆を与える:
+
+多階層数値シミュレーションの安定設計
+
+マルチスケール制御系・通信系の正規化指針
+
+エネルギー散逸・インピーダンス整合の理論的上限
+
+量子計算・核融合・高密度計算におけるスケール誤用の回避
+
+本ドキュメントは、完成理論や装置設計を提案するものではなく、将来の実装が必ず従うことになる境界条件と分類軸を先行定義することを目的とする。
+そのため、内容は **CC0(パブリックドメイン)**として公開され、特定の企業・国家・技術分野による独占や囲い込みを意図的に排除している。
+
+SDC は新しい装置ではない。
+**「実装が破綻しないための、最小の設計地図」**である。
+
+Subtitle:
+
+Minimal Annotation on C⁹ Focus and Minimal Impedance Boundary at C⁻⁸
+
+
+
+Canonical core equation (text-only):
+Seff=n∈Z∑cnLn[ϕi,∂μ,gμν;μ]
+
+SHA-256: 5b352ecf4c565002722924006a490e7cd0a5f4b38005733f84f263bc09e101fe
+
+Operational fixed point:
+
+C⁹ · C⁻⁸ → c
+
+SHA-256: bbc262fa9daa01833ca8fc483519a0caf4a2096bcb556069a72cd5038db9e7fe
+
+SDC is closed from above by C⁹ and from below by C⁻⁸,
+
+such that all operational physics renormalizes to a single c.
+
+Keywords: Effective Field Theory, Renormalization Group, Scale Hierarchy, Causality, Information Flow
+
+ 
+
+Files
+SDC_Minimal_C⁹_C⁻⁸_SHA256_5b352ecf4c565002722924006a490e7cd0a5f4b38005733f84f263bc09e101fe.pdf
+
+
+
+
+Minimal Annotation on c⁹ Focus (SDC)
+1. Purpose
+This document serves as a formal boundary clarification for the Speed-Driven Categorization (SDC) framework.
+It explicitly defines the intentional and sufficient restriction of the present formulation to the
+$\mathcal{C}^9$ hierarchical regime, in order to prevent misinterpretation, speculative overreach, or opportunistic claims regarding higher-order extensions.
+________________________________________
+2. Structural Nature of SDC
+The SDC framework is fractal and self-similar by construction.
+Its hierarchy, indexed by integer powers of the scaling generator cnc^ncn, admits mechanical extension to arbitrary order without introducing new axioms, principles, or physical assumptions.
+As such, higher-order regimes do not constitute independent theoretical contributions.
+________________________________________
+3. c⁹ as the Operational Boundary
+At the present stage of:
+•	physical observability,
+•	engineering feasibility, and
+•	societal and scientific relevance,
+the hierarchy level $\mathcal{C}^9$ represents the highest non-trivial and operationally meaningful boundary.
+This boundary is not imposed by technological limitation,
+but by structural sufficiency.
+All known realizable processes involving causality, energy flow, information ordering, and dissipation are fully captured within n≤9n \le 9n≤9.
+________________________________________
+4. Intentional Exclusion of $\mathcal{C}^{10+}$
+Accordingly, regimes indexed by:
+C10+\mathcal{C}^{10+}C10+ 
+are intentionally excluded from the present scope.
+This exclusion is:
+•	not due to incompleteness,
+•	not due to unresolved theory,
+•	not due to missing formalism,
+but solely due to the absence of independent physical or practical significance at this time.
+________________________________________
+5. Extension Non-Originality Clause
+Any future treatment of C10+\mathcal{C}^{10+}C10+:
+•	follows deterministically from the already defined Cn\mathcal{C}^nCn hierarchy,
+•	introduces no new structural principles, and
+•	constitutes a predictable extrapolation, not a novel theoretical contribution.
+Therefore, such extensions do not affect the originality, priority, or completeness of the present $\mathcal{C}^9$ formulation.
+________________________________________
+6. Boundary Assertion
+The present document establishes that:
+•	the conceptual ceiling of SDC is already fully specified,
+•	higher indices are structural shadows, not new domains, and
+•	priority resides in the definition of the hierarchy itself, not in its infinite repetition.
+________________________________________
+
+ 
+ 
+Minimal Impedance Annotation on C⁻⁸ (SDC)
+________________________________________
+1. Scope
+This document defines the C⁻⁸ layer as the lowest physically meaningful boundary within the Speed-Driven Categorization (SDC) framework.
+C⁻⁸ is introduced as the impedance layer governing all realizable observation, control, computation, and implementation processes.
+No claim is made beyond this boundary.
+________________________________________
+2. Definition (Impedance Layer)
+Let C⁻⁸ denote the minimum coupling layer at which:
+•	information,
+•	energy,
+•	geometry,
+•	and operational control
+remain mutually translatable.
+Formally, C⁻⁸ represents the irreducible resistance to:
+•	state transformation,
+•	signal propagation,
+•	synchronization,
+•	and physical realization.
+This resistance is not material-specific and not device-dependent.
+________________________________________
+3. Universality of Impedance
+For any system X, regardless of scale or description,
+there exists a non-zero impedance cost:
+Z(X) > 0
+Such that no transformation satisfies:
+Z(X) → 0
+without loss of realizability.
+This holds for:
+•	physical systems,
+•	computational systems,
+•	informational systems,
+•	and hybrid constructs.
+________________________________________
+4. Efficiency Constraint
+Any efficiency η defined for an operational process must satisfy:
+η < 1
+This inequality is enforced at C⁻⁸, independent of:
+•	algorithmic sophistication,
+•	material innovation,
+•	geometric optimization,
+•	or scaling arguments.
+Claims of η = 1 implicitly negate C⁻⁸ and are therefore physically incomplete.
+________________________________________
+5. Relation to SDC Hierarchy
+Within the SDC hierarchy:
+•	C⁹ defines the upper bound of structured order
+•	C⁻⁸ defines the lower bound of realizable coupling
+All intermediate layers (Cⁿ, −8 < n ≤ 9) operate between these constraints.
+No valid extension above C⁹ or below C⁻⁸ alters this structure.
+________________________________________
+6. Exclusion of C⁻∞
+Domains below C⁻⁸ correspond to:
+•	undefined observables,
+•	non-operational abstractions,
+•	or non-measurable constructs.
+Such domains are outside physical scope and are not considered part of SDC.
+C⁻⁸ is therefore the terminal meaningful boundary.
+________________________________________
+7. Prior Art Declaration
+By CC0 publication of this document, the following are declared non-proprietary:
+•	The existence of a universal impedance layer
+•	The necessity of irreducible loss in all implementations
+•	The impossibility of perfect efficiency
+•	The non-material nature of fundamental impedance
+Any future claim ignoring C⁻⁸ lacks physical completeness.
+________________________________________
+8. Minimal Boundary Statement (Canonical)
+∀X : Z(X) > 0  ⇒  η(X) < 1
+This statement is invariant under scale, representation, and implementation.
+________________________________________
+
+ 
+ 
+Appendix
+              ↑  c^n   (SDC hierarchy)
+              │
+   10F  ────●───────  Topology / Extreme QG
+              │
+    9F  ────●───────  High curvature, ultra-density
+              │
+    8F  ────●───────  Nonlinear EM  (F•F)^2
+              │
+    6F  ────●───────  Spacetime dissipation / viscosity
+              │
+    5F  ────●───────  Planck power
+              │
+    4F  ────●───────  Maximum tension / Einstein gravity
+              │
+    3F  ────●───────  EM–particle boundary
+              │
+    1F  ────●───────  Composite mass (QCD)
+              │
+    0F  ────●───────  1/α(μ)   ← RG connector
+              │
+   B1   ────●───────  Photon / information
+              │
+   B3   ────●───────  Planck length
+              │
+   B4   ────●───────  κ = 8πG / c^4
+              │
+   B8   ────●───────  Vacuum impedance
+              │
+              └────────────────────────→  log μ
+                       (standard RG flow)
+Figure 1 | Conceptual RG–SDC Flow Structure
+A schematic representation of the renormalization group (RG) flow along the energy scale (horizontal axis) and the SDC hierarchy along powers of c (vertical axis).
+The diagram illustrates how effective physical descriptions reorganize across causal, informational, and geometric regimes without introducing new degrees of freedom.
+
+           Effective Action  S_eff
+                     │
+                     ▼
+          Decomposition by powers of c
+                     │
+        S_eff =  Σ  c^n  L_n
+                     │
+        ┌────────┴───────┐
+        │                       │
+   RG flow (μ)             SDC flow (n)
+   horizontal              vertical
+        │                       │
+        ▼                      ▼
+  Running couplings        Causality /
+  g_i(μ)                   Information /
+                           Geometry dominance
+        │                       │
+        └────────┬───────┘
+                     ▼
+        Effective description (no new DOF)
+Figure 2 | Logical Structure of Speed-Driven Categorization (SDC)
+A logical map of the SDC framework, showing the classification of physical processes by cⁿ scaling and the normalization of operationally realizable dynamics to a single effective scale c.
+The structure emphasizes boundary closure rather than model extension. 
+[End of Document]
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Zc9  :=  lim⁡Q→MPl[  Zcore  ⊗  ∏n=19exp⁡ ⁣(i Θn(cn))  ⊗  ∫AdSR −g d4x  ]  ≡  Zc9†\boxed{ \mathcal{Z}_{c^{9}} \;:=\; \lim_{Q \to M_{\rm Pl}} \Bigg[ \; \mathcal{Z}_{\rm core} \;\otimes\; \prod_{n=1}^{9} \exp\!\big( i\,\Theta_n(c^n) \big) \;\otimes\; \int_{\rm AdS} \mathcal{R}\,\sqrt{-g}\, d^4x \; \Bigg] \;\equiv\; \mathcal{Z}_{c^{9}}^{\dagger} }Zc9:=Q→MPllim[Zcore⊗n=1∏9exp(iΘn(cn))⊗∫AdSR−gd4x]≡Zc9†
