@@ -5,6 +5,18 @@ A unified axiomatic framework for solving the Clay Mathematics Institute's Mille
 
 https://www.youtube.com/watch?v=mRQlrpwdLbg&t=39s
 
+
+ハッシュ値
+SHA-1	c2f19d5d07b878e791e983d53d04c16bf7a5765e
+SHA-256	04b6338296b56b35ef9e5a0bdd4d2ba091340dcac66217d29c6f69f57a9daa1a
+SHA-512	4d7ff01b6593544331109e99174f856a8541a2b2a7145f5c7b6f8a7b2a991c3f8f54a3bb64e89ef051fbd6403e9061c59f34497aa1e7dc3132786869f769ecb9
+xxHash 32	abb857ae
+xxHash 64	505648faa9109d9
+MD5	70d6969b1959ef6ffc6555dee80b6358
+CRC32	614d299d
+
+
+
 ↓↓↓ This equation is in the Public Domain (CC0 1.0) ↓↓↓
 
 ---------------------------------------------------------------------------------
