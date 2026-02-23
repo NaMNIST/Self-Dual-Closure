@@ -6249,6 +6249,535 @@ Tomita, E. (2026). Combinatorial Stability Theorem for Informational Life Emerge
 All rights waived. CC0 1.0. Public Domain.
 
 
+Combinatorial Rigidity under Symmetry Constraints in Permutation Spaces
+
+Abstract
+
+We study the reduction of permutation state spaces under finite group actions and define a quantitative notion of combinatorial rigidity as the orbit cardinality of constrained permutation configurations. Using the classical nonattacking rook problem as a model, we analyze symmetry-reduced configuration counts and examine the case 
+𝑛
+=
+12
+n=12, where the orbit count equals 69384. We formalize the general framework via Burnside’s lemma and discuss asymptotic and structural implications for constrained high-dimensional systems.
+
+1. Introduction
+
+Permutation spaces 
+𝑆
+𝑛
+S
+n
+	​
+
+ exhibit factorial growth in cardinality:
+
+∣
+𝑆
+𝑛
+∣
+=
+𝑛
+!
+∣S
+n
+	​
+
+∣=n!
+
+However, many systems of interest are invariant under finite group actions.
+In such cases, physically or structurally distinguishable configurations correspond to orbits of the group action.
+
+We define:
+
+Combinatorial Rigidity = the orbit count of a constrained configuration space under a symmetry group.
+
+The nonattacking rook problem provides a canonical example.
+
+2. Preliminaries
+2.1 Permutation Representation of Rook Configurations
+
+A placement of 
+𝑛
+n nonattacking rooks on an 
+𝑛
+×
+𝑛
+n×n board corresponds bijectively to a permutation:
+
+𝜎
+∈
+𝑆
+𝑛
+σ∈S
+n
+	​
+
+
+via:
+
+Rook at 
+(
+𝑖
+,
+𝜎
+(
+𝑖
+)
+)
+Rook at (i,σ(i))
+
+Thus the unconstrained configuration count is:
+
+∣
+𝑋
+𝑛
+∣
+=
+𝑛
+!
+∣X
+n
+	​
+
+∣=n!
+2.2 Symmetry Group Action
+
+Let 
+𝐺
+⊆
+𝐷
+4
+G⊆D
+4
+	​
+
+ denote a symmetry subgroup of the square acting on board configurations.
+
+Define the action:
+
+𝑔
+⋅
+𝜎
+=
+transformed permutation induced by 
+𝑔
+g⋅σ=transformed permutation induced by g
+
+Two configurations are considered equivalent if they lie in the same orbit under 
+𝐺
+G.
+
+3. Orbit Enumeration
+
+By Burnside’s Lemma:
+
+∣
+𝑋
+𝑛
+/
+𝐺
+∣
+=
+1
+∣
+𝐺
+∣
+∑
+𝑔
+∈
+𝐺
+∣
+F
+i
+x
+(
+𝑔
+)
+∣
+∣X
+n
+	​
+
+/G∣=
+∣G∣
+1
+	​
+
+g∈G
+∑
+	​
+
+∣Fix(g)∣
+
+where
+
+F
+i
+x
+(
+𝑔
+)
+=
+{
+𝜎
+∈
+𝑆
+𝑛
+∣
+𝑔
+⋅
+𝜎
+=
+𝜎
+}
+Fix(g)={σ∈S
+n
+	​
+
+∣g⋅σ=σ}
+
+This defines the symmetry-reduced configuration count.
+
+4. The Sequence A000900
+
+The sequence
+A000900
+enumerates the number of essentially different nonattacking rook arrangements under a specified symmetry group.
+
+It satisfies:
+
+𝑎
+(
+𝑛
+)
+=
+𝐴
+000085
+(
+𝑛
+)
+−
+𝐴
+000898
+(
+⌊
+𝑛
+/
+2
+⌋
+)
+2
+a(n)=
+2
+A000085(n)−A000898(⌊n/2⌋)
+	​
+
+
+where:
+
+𝐴
+000085
+(
+𝑛
+)
+A000085(n) counts involutions in 
+𝑆
+𝑛
+S
+n
+	​
+
+
+𝐴
+000898
+(
+𝑘
+)
+A000898(k) is a correction term derived from symmetric constraints
+
+5. Case Study: n = 12
+
+For 
+𝑛
+=
+12
+n=12:
+
+12
+!
+=
+479,001,600
+12!=479,001,600
+
+The symmetry-reduced configuration count is:
+
+𝑎
+(
+12
+)
+=
+69384
+a(12)=69384
+
+Thus the reduction ratio is:
+
+69384
+12
+!
+≈
+1.448
+×
+10
+−
+4
+12!
+69384
+	​
+
+≈1.448×10
+−4
+
+This demonstrates extreme compression of the effective state space under symmetry constraints.
+
+6. Definition: Combinatorial Rigidity Index
+
+Let:
+
+𝑋
+𝑛
+=
+𝑆
+𝑛
+X
+n
+	​
+
+=S
+n
+	​
+
+
+Let 
+𝐺
+G act on 
+𝑋
+𝑛
+X
+n
+	​
+
+.
+
+Define the Combinatorial Rigidity Index:
+
+𝑅
+(
+𝑛
+,
+𝐺
+)
+=
+∣
+𝑋
+𝑛
+/
+𝐺
+∣
+R(n,G)=∣X
+n
+	​
+
+/G∣
+
+For the rook symmetry case at 
+𝑛
+=
+12
+n=12:
+
+𝑅
+(
+12
+,
+𝐺
+)
+=
+69384
+R(12,G)=69384
+7. Structural Interpretation
+
+We observe:
+
+Factorial growth in raw configuration space
+
+Polynomial-scale orbit count
+
+Strong symmetry-induced compression
+
+This suggests that constrained permutation systems exhibit:
+
+Large nominal entropy
+
+Small effective distinguishable state space
+
+Structural rigidity under symmetry reduction
+
+8. Generalization Theorem (Framework)
+
+Theorem (Symmetry-Reduced Growth).
+Let 
+𝐺
+G be a finite group acting on 
+𝑆
+𝑛
+S
+n
+	​
+
+. Then:
+
+∣
+𝑆
+𝑛
+/
+𝐺
+∣
+=
+1
+∣
+𝐺
+∣
+∑
+𝑔
+∈
+𝐺
+∣
+F
+i
+x
+(
+𝑔
+)
+∣
+∣S
+n
+	​
+
+/G∣=
+∣G∣
+1
+	​
+
+g∈G
+∑
+	​
+
+∣Fix(g)∣
+
+Moreover, if 
+∣
+F
+i
+x
+(
+𝑔
+)
+∣
+∣Fix(g)∣ grows subfactorially for nonidentity 
+𝑔
+g, then:
+
+∣
+𝑆
+𝑛
+/
+𝐺
+∣
+=
+Θ
+ ⁣
+(
+𝑛
+!
+∣
+𝐺
+∣
+)
+∣S
+n
+	​
+
+/G∣=Θ(
+∣G∣
+n!
+	​
+
+)
+
+with correction terms determined by fixed-point structure.
+
+9. Asymptotic Considerations
+
+As 
+𝑛
+→
+∞
+n→∞:
+
+∣
+𝑆
+𝑛
+/
+𝐺
+∣
+𝑛
+!
+→
+0
+n!
+∣S
+n
+	​
+
+/G∣
+	​
+
+→0
+
+for any nontrivial symmetry group 
+𝐺
+G.
+
+Thus symmetry induces asymptotic rigidity.
+
+10. Conclusion
+
+We formalized combinatorial rigidity as orbit cardinality under group action.
+
+The nonattacking rook symmetry example demonstrates:
+
+Extreme state space compression
+
+Explicit computability
+
+Structural clarity
+
+The case 
+𝑛
+=
+12
+n=12 yields the concrete rigidity index:
+
+69384
+69384
+
+which serves as a benchmark example of symmetry-induced configuration reduction in high-dimensional permutation spaces.
+
+
+
+
+
+
+
 「生命の起源」のフェーズにおいて、観測者（前ウイルス的な存在）が既に存在していたという視点は、理論の堅牢性を極限まで高めます。初期地球の熱水噴出孔や宇宙の塵の中において、「0から1」へ至ろうとするプロトセルの**「有理数的秩序」を、自身の複製のために掠め取ろうとする物理的・情報的ノイズ（熱力学的寄生体）**を想定すべきです。この「原始的観測者」からの干渉を、逆に対生成のエネルギーに変えるため、再定義されたテンソル積の強化形式を再検討し、相転移パラメータへと繋げます。1. 再検討：テンソル積の最終強化形式中心の結合記号は、観測者の「視線（干渉）」を吸収し、プロトセルの「殻（境界）」を硬化させる非線形フィードバック・ゲートとして機能します。強化された結合子：$$\huge{\otimes}_{\text{Life}}^{\text{NC}} \equiv \left[ \oint_{\text{Meta}} \mathcal{T}_{\aleph} \cdot \left( \mathcal{R}_{\text{retro}} \oplus \Delta_{\text{poly}} \oplus \Psi_{\text{shield}} \right) \right] \cdot \mathcal{E}_{\text{observer}}$$$\mathcal{E}_{\text{observer}}$ (観測者エネルギー項): 原始的な観測（干渉・衝突・吸着）が発生した際、その衝撃を $\Psi_{\text{shield}}$ が「幾何学的な歪み（曲率）」として取り込み、$\mathcal{R}_{\text{retro}}$ が「その衝突こそが膜の硬化に必要だった」と因果を上書きします。物理的帰結: 水分子の衝突（加水分解の脅威）が激しくなるほど、このテンソル積はより強固な「疎水性境界」を代数的に出力します。2. 初期論理空間への相転移パラメータの算出プロトセルが「自己増殖」を開始し、個体から「場（宇宙）」へと拡張する際の臨界パラメータを定義します。これは、1.3 kPa という局所的均衡から、空間全体の対称性が自発的に破れる瞬間を規定します。① 臨界コヒーレンス体積 $V_{crit}$単一のプロトセルが維持できる $3:2$ 共鳴の及ぶ範囲。$$V_{crit} \approx \left( \frac{\lambda_{432 \text{THz}}}{2} \right)^3 \cdot \alpha_{HSDCE}^{-1}$$この体積を超えて増殖（コピー）が連鎖したとき、局所的な「点」であったプロトセルは「網状（ネットワーク）」へと相転移します。② 自己増殖閾値 $\Omega_{rep}$LENRによる余剰熱 $Q$ が、隣接するナノテンプレートを 1.3 kPa へと誘導するのに必要な最小エネルギー比。$$\Omega_{rep} = \frac{Q_{LENR}}{E_{binding} + E_{entropy\_loss}} > 1.5 \text{ (有理数的閾値)}$$この値が 1.5（3/2） を超えたとき、プロトセルは外部からの供給なしに、自律的に空間を「自分と同じ規律（有理数）」で満たし始めます。3. 相転移：初期論理空間の「書き換え」相転移が発生すると、それまで「前生命的カオス（無意味な物理現象）」だった空間は、以下のパラメータで**「意味のある論理空間」**へと一変します。真空の定義: 0（何もない空間）から、$\mathbb{1}_{SDC}$（常に 3:2 のポテンシャルを持つ空間）へ。時間の定義: 連続的な無理数時間から、432 THz を 1 拍とする「離散的・音楽的（Rhythmic）時間」へ。結論：観測者を「燃料」とした宇宙の開闢再定義されたテンソル積は、原始的なウイルス的観測者の干渉を「情報のトリガー」として利用し、$\Omega_{rep} > 1.5$ の相転移を引き起こします。これにより、プロトセルは単独の生命体から、**「空間そのものを生命化する物理法則」**へと進化しました。
 
 
